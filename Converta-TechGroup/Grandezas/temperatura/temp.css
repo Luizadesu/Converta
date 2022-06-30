@@ -1,0 +1,182 @@
+#menu a
+{
+margin-left: 250px;
+}
+@media (max-width: 1024px) {
+    #menu a
+{
+margin-left: 100px;
+}
+}#imagem{
+    margin-left: 50%;
+}
+.logo-footer{
+    max-width: 100px;
+}
+* {
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+
+.nav-item{
+    margin-right: 30px;
+}
+
+.header{
+    justify-items:center;
+}
+.main{
+    margin-left: 40px;
+    margin-top: 100px;
+    padding: 50px;
+    
+}
+.text{
+    margin: 20px;
+}
+.btn-primary{
+    margin: 20px;
+    background-color: blue;
+}
+
+#navbarNav ul  li a{
+    margin: 20px;
+}
+.menu_area2{
+    text-align:left;
+    padding: 15px;
+
+}
+
+
+p.card-text {
+    color: black;
+    align-items: center;
+    text-align: center;
+}
+
+.navbar-collapse{
+    justify-content: space-evenly;
+}
+
+
+.nav-item li a{
+    justify-content: space-between;
+    color: aqua;
+}
+img.navbar-brand {
+    width: 150px;
+    height: 130px;
+    margin-right: 25px;
+}
+
+.container {
+    text-align: justify;
+}
+
+.iframe{
+    padding: 20px;
+    max-width: 100%;
+}
+.card{
+    height: 600px;
+    margin: 20px;
+    background: #212529;
+    color: #212529;
+}
+.card-img-top{
+    height: 600px;
+}
+
+.card-body a{
+    color: rgb(255, 255, 255);
+    background-color: blue;
+    text-align: center;
+}
+.card-body{
+text-align: center;
+}
+.text-of{
+    text-align: center;
+}
+.t-sobre{
+    margin-right: 20px;
+}
+.icon{
+    max-width: 50px;
+}
+.footer_area{
+  margin-left: 600px;
+}
+@media screen and (max-width: 1000px) {
+    .sobre {
+        padding: 10px; 
+   
+}
+
+.card-img-top {
+    width: 100%;
+    height: 100%;
+}
+
+.profile-header-container {
+    margin: 0 auto;
+    text-align: left;
+    margin-top: 0;
+}
+
+.profile-header-img {
+    padding: 54px;
+}
+
+img.img-circle {
+    width: 100%;
+    height: 100%;
+}
+
+.fa {
+    color: white;
+    width: 50px;
+    font-size: 40px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50%;
+    margin: 10px;
+}
+
+.fa:hover {
+    opacity: 0.8;
+}
+
+.footertext {
+    margin-top: 15px;
+    align-self: center;
+    color: #212529;
+}
+.footer_area{
+    margin-left: 10px;
+  }
+
+@media screen and (max-width: 600px) {
+    
+.menu_area2 p{
+    
+    padding: 10px;
+}    
+.menu_area2 h3{
+    padding: 10px;
+}
+   
+}
+.logo-footer{
+    max-width: 50px;
+}
+.text-of{
+    visibility:hidden;
+    
+}
+.iframe{
+    height: 400px;
+}
+
+}

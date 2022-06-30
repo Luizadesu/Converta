@@ -1,0 +1,68 @@
+#titulo
+{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    margin: 20px;
+    color: rgb(106, 106, 106);
+}
+#temperatura
+{
+    width: 50px;
+    height: 50px;
+}
+
+.container button
+{
+    border-radius: 10px;
+    background-color: rgb(255, 255, 255);
+    border-color: rgb(184, 184, 184);
+    height: 80px;
+    width: 80px;
+}
+
+.container button:hover
+{
+    background-color: rgb(143, 143, 143);
+}
+
+.container p
+{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 3px;
+}
+
+#logo /*tamanho dos icones é no font-size*/
+{
+    font-size: 40px;
+    color: rgb(45, 45, 45);
+}
+.navbar-collapse{
+    justify-content: space-evenly;
+}
+#menu a
+{
+margin-left: 250px;
+}
+@media (max-width: 1024px) {
+    #menu a
+{
+margin-left: 100px;
+}
+}
+#conversor{
+    max-width: 25%;
+    display: block;
+    margin-left: 23%;
+}
+#esconde{
+    margin-left: 340px;
+    margin-top: 30px;
+    margin-bottom: 100px;
+    
+}
+.mainMoeda{
+    padding: 20px;
+}
+.flag{
+    max-width: 1.5%;
+}

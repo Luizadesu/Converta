@@ -1,0 +1,21 @@
+#persona
+{
+    margin-left: -400px;
+    margin-top: -120px;
+    position: absolute;
+}
+#textoPersona
+{
+    bottom: -40px;
+    left: -205px;
+    position: relative;
+    font-size: 13px;
+}
+#footer
+{
+    margin-top: 380px;
+}
+@media (max-width: 1024px) {
+    #persona {margin-left: -170px;}
+    #textoPersona{left: 25px;}
+}
